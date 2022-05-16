@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/auctionplan/static/css/main.7d8e42f6.css",
+    "main.js": "/auctionplan/static/js/main.c4b82c15.js",
+    "static/js/787.63e47474.chunk.js": "/auctionplan/static/js/787.63e47474.chunk.js",
+    "index.html": "/auctionplan/index.html",
+    "main.7d8e42f6.css.map": "/auctionplan/static/css/main.7d8e42f6.css.map",
+    "main.c4b82c15.js.map": "/auctionplan/static/js/main.c4b82c15.js.map",
+    "787.63e47474.chunk.js.map": "/auctionplan/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8e42f6.css",
+    "static/js/main.c4b82c15.js"
+  ]
+}
